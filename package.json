@@ -1,0 +1,20 @@
+{
+  "name": "discordbot",
+  "version": "0.8",
+  "description": "A general purpose Discord Bot",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emre Bugday",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "nodemailer": "^6.4.2",
+    "request": "^2.88.2",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "prettier": "2.0.2"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "discord": [
+    {
+      "serverName": "Your server name.",
+      "prefix": "Your command prefix. As an example if you use '!' as an prefix the user must type !status in order to use the status command.",
+      "token": "Your Discord Token"
+    }
+  ],
+  "register": [
+    {
+      "require": true,
+      "welcomeChannel": "Your standard welcome channel. This is the channel where bot is going to post welcome messages.",
+      "welcomeMessage": "Your standard welcome message. PS: You go to next line with \n to make your discord message look cleaner.",
+      "authorizedRole": "Authorized User Role Id"
+    }
+  ],
+  "mailAnnouncer": [
+    {
+      "enabled": true,
+      "mailHost": "Mail Host / Example: smtp.gmail.com",
+      "port": "587",
+      "mailAddress": "mailaddress@mailhost.com",
+      "mailPassword": "Mail Password",
+      "announcementChannel": "Announcement Channel ID"
+    }
+  ]
+}
