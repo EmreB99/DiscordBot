@@ -1,0 +1,2 @@
+To prevent github from not registering this folder just because it's empty. 
+This folder is empty because I generate the database file from script AFTER first launch.
