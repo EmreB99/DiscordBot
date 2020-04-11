@@ -8,6 +8,7 @@ A general purpose Disord bot.
 
 
   * User registration
+  * Mass message delete
   * Mass announcement mail sending: You can send announcements mails to all of your registered users.
   
     * How it works:
